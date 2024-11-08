@@ -1,4 +1,7 @@
-## Hi there! Welcome to my coding space! 👋
+
+<h2 align="center">Hi there! Welcome to my coding space! 👋</h2>
+
+
 
 🔭 I'm currently enrolled in an advanced Full Stack Development and Web Programming program to deepen my expertise in building dynamic web applications.
 
