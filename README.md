@@ -1,6 +1,7 @@
 
 <h2 align="center">Hi there! Welcome to my coding space! 👋</h2>
 
+![image](https://github.com/user-attachments/assets/dabbf82a-a03e-41a1-acc5-1d19a964d02c)
 
 
 🔭 I'm currently enrolled in an advanced Full Stack Development and Web Programming program to deepen my expertise in building dynamic web applications.
